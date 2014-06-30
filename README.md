@@ -6,3 +6,7 @@ flatdoc-test
 ``` php
 echo $foo;
 ```
+
+``` javascript
+document.write(foo);
+```
