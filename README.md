@@ -1,0 +1,4 @@
+flatdoc-test
+============
+
+Flatdoc test
