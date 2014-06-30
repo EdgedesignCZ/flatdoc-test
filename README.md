@@ -9,19 +9,16 @@ Nýbrž mě oba snažil historky určitých bombardují třeba, vyrazili zasmál
 
 ``` php
 // PHP
-
 echo $foo;
 ```
 
 ``` javascript
 // Javascript
-
 document.write(foo);
 ```
 
 ``` ruby
 // Ruby
-
 puts foo;
 ```
 
@@ -30,7 +27,6 @@ Předchozímu pohřbil ozdobených nahé sérií okem, mor velkým prázdné už
 
 ``` php
 // PHP
-
 $cow = new \MooCow();
 $cow->foo(123);
 $cow->inc();
@@ -48,7 +44,6 @@ Osmi by opomíjena tzv. dobyvačných zmizet, tří o nedávném uvážení jeho
 
 ``` php
 // PHP
-
 <html>
  <head>
   <title>PHP Test</title>
@@ -61,7 +56,6 @@ Osmi by opomíjena tzv. dobyvačných zmizet, tří o nedávném uvážení jeho
 
 ``` javascript
 // Javascript
-
 for (i = 0; i < 5; i++) {
     text += "The number is " + i + "<br>";
 }
@@ -76,7 +70,6 @@ for (; i < len; i++) {
 
 ``` ruby
 // Ruby
-
 puts "Give me a number"
 number = gets.chomp
 puts number.to_i
